@@ -1,6 +1,6 @@
 # Hackathon Test Vol.1
->・This hackathon is held by Japanese corporate
->・We look forward to seeing your innovative ideas
+This hackathon is held by Japanese corporate
+We look forward to seeing your innovative ideas
 
 In order to register, please register from here: https://www.google.com/forms/about/
 
